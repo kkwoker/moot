@@ -1,0 +1,32 @@
+.content {
+  margin: 30px 40px;
+  animation: trans-up 1s;
+}
+
+.nav-bar {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+  width: 40px;
+  font-size: 15px;
+}
+.code {
+  background-color: pink;
+  padding-top: 4px;
+  margin-right: 5px;
+}
+
+.music {
+  background-color: turquoise;
+  margin-right: 5px;
+}
+
+.bleh {
+  background-color: lavender;
+  font-size: 20px;
+}
